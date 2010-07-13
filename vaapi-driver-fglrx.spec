@@ -1,7 +1,7 @@
 
 %define name	vaapi-driver-fglrx
 %define oname	xvba-video
-%define version	0.7.1
+%define version	0.7.2
 %define rel	1
 
 Summary:	VA API driver for proprietary fglrx driver
