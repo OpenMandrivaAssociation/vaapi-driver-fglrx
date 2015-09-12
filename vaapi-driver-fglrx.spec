@@ -3,7 +3,7 @@
 Summary:	VA API driver for proprietary fglrx driver
 Name:		vaapi-driver-fglrx
 Version:	0.8.0
-Release:	2
+Release:	3
 Group:		Video
 License:	GPLv2
 URL:		http://www.splitted-desktop.com/~gbeauchesne/xvba-video
