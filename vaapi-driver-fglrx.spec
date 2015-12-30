@@ -1,4 +1,6 @@
 %define oname	xvba-video
+%define _disable_lto 1
+%define _disable_rebuild_configure 1
 
 Summary:	VA API driver for proprietary fglrx driver
 Name:		vaapi-driver-fglrx
